@@ -39,7 +39,9 @@ function symmetri_setup_plugin() {
 		'supports'				=> array(
 										'title',
 										'thumbnail', // Called Feature Image
+										'editor',
 										'page-attributes'
+
 									),
 		'has_archive'			=> true,
 		'rewrite'				=> array(
