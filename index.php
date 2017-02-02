@@ -43,7 +43,7 @@ function symmetri_setup_plugin() {
 										'page-attributes'
 
 									),
-		'has_archive'			=> true,
+		'has_archive'			=> false,
 		'rewrite'				=> array(
 										'slug' 		=> 'workspace',
 										'with_front'=> true
